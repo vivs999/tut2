@@ -1,0 +1,1 @@
+use the source control tab to manage your github and git. Please keep it updated at all times. All coders should clone the repository on their respective computers to ensure they all have the latest version of the code. ALWAYS COMMIT AND SYNC BEFORE LEAVING THE GARAGE. VERY VERY VERY IMPROTANT!!!
